@@ -7,7 +7,7 @@ This project tracks the route 1 MBTA busses that travel Mass Ave in Boston and C
 This exercise can be run by forking the repository (button in upper left), cloning it to your machine, and dragging the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/MIT-MERN/09week/Real-Time-Bus-Tracker/index.html).
 
 ## Future Improvements
-I’d like to add some bus icons to replace the generic markers, perhaps displaying the bus numbers above the icons.
+Adding some bus icons to replace the generic markers and displaying the bus numbers above the icons.
 
 ## MIT License
 Copyright (c) 2020 John Williams
