@@ -4,10 +4,15 @@
 This project tracks the route 1 MBTA busses that travel Mass Ave in Boston and Cambridge. The page displays one marker per bus and updates every 15 seconds. The bus locations are derived from real time data pulled from [https://api-v3.mbta.com](https://api-v3.mbta.com).
 
 ## How To Run
-Fork the repository, clone it to your machine, and drag the index.html file into your browser window. The exercise can also be run from [here](https://russellpropert.github.io/real-time-bus-tracker/index.html).
+Click [here](https://boston-bus-tracker.vercel.app/) to open the app in your browser. This project was depoyed on Vercel.
+
+If you would like to run it locally:
+1. Fork the project and clone it to your machine.
+2. Open the index.html file in your browser.
 
 ## Future Improvements
-Adding some bus icons to replace the generic markers and displaying the bus numbers above the icons.
+- Adding some bus icons to replace the generic markers
+- Displaying the bus information above the icons.
 
 ## MIT License
 Copyright (c) 2021 Russell Propert
